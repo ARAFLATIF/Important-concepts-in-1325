@@ -20,7 +20,7 @@ public class StringUtils {
     }
 }
 
-//This example defines a custom method countVowels that works with String objects.
+//This example defines a custom method countVowels  that works with String objects.
 
 //Creating a wrapper class with custom String methods:
 
