@@ -18,7 +18,7 @@ public class InputValidation {
                 }
             } else {
                 System.out.println("Please enter a valid integer.");
-                scanner.next(); // Clear the invalid input
+                scanner.next(); // Clear the invalid i nput
             }
         }
 
